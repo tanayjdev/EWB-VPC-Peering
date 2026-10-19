@@ -379,9 +379,9 @@ All 22 screenshots are in [`03_Evidence_Screenshots/`](03_Evidence_Screenshots/)
 | 19 | [`19-controlled-ping-failure.PNG`](03_Evidence_Screenshots/19-controlled-ping-failure.PNG) | Ping failure during controlled security-group test |
 | 20 | [`20-controlled-ping-recovery.PNG`](03_Evidence_Screenshots/20-controlled-ping-recovery.PNG) | Connectivity recovery after rule restoration |
 | 21 | [`21-cleanup-evidence.PNG`](03_Evidence_Screenshots/21-cleanup-evidence.PNG) | Cleanup evidence |
-| 22 | [`21-cleanup-evidence-2.PNG`](03_Evidence_Screenshots/21-cleanup-evidence-2.PNG) | Additional cleanup evidence |
+| 22 | [`22-cleanup-evidence-2.PNG`](03_Evidence_Screenshots/22-cleanup-evidence-2.PNG) | Additional cleanup evidence |
 
-**Filename note:** Both cleanup screenshots currently use the `21-` prefix. Their names are retained as uploaded so that the links work without requiring a rename. Renaming the second file to `22-cleanup-evidence-2.PNG` is optional; if you rename it, update this table to match.
+**Filename note:** The cleanup screenshots use the `21-` and `22-` prefixes respectively, matching the files currently uploaded to GitHub.
 
 ---
 
@@ -440,7 +440,7 @@ EWB-VPC-Peering/
 │   ├── 19-controlled-ping-failure.PNG
 │   ├── 20-controlled-ping-recovery.PNG
 │   ├── 21-cleanup-evidence.PNG
-│   └── 21-cleanup-evidence-2.PNG
+│   └── 22-cleanup-evidence-2.PNG
 └── configs/
     └── ssh_config
 ```
